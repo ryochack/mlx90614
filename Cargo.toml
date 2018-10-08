@@ -1,0 +1,11 @@
+[package]
+name = "mlx90614"
+version = "0.1.0"
+authors = ["ryochack <ryochack@gmail.com>"]
+# edition = "2018"
+
+[dependencies]
+embedded-hal =  "0.2"
+
+[dev-dependencies]
+linux-embedded-hal = "0.2"
